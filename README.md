@@ -8,9 +8,12 @@ class Developer:
         self.name = "Alireza"
         self.nickname = "Aliz"
         self.role = "Computer Engineering Student"
+        self.birthDay: "2003 January 13"
+        self.hobbies: ["sleeping:)", "movies", "walking", "coding"]
         self.skills = ["python", "html", "css"]
-        self.learning = ["javascript", "frameworks", "ai", ...]
+        self.learning = ["javascript", "frameworks", "Ai", ...]
         self.goal = ["freelancer", "web developer", ...]
+        self.quote = "Learn, Build, Improve, Repeat"
 
 Aliz = developer()
 ```
