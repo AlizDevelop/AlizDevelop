@@ -1,4 +1,20 @@
-## Hi there 👋
+![header](assets/header.png)
+
+<h1 align="center", style= "color : blue; font-size : 60px;">Hello world</h1>
+
+```python
+class Developer: 
+    def __init__(self):
+        self.name = "Alireza"
+        self.nickname = "Aliz"
+        self.role = "Computer Engineering Student"
+        self.skills = ["python", "html", "css"]
+        self.learning = ["javascript", "frameworks", "ai", ...]
+        self.goal = ["freelancer", "web developer", ...]
+
+Aliz = developer()
+```
+
 
 <!--
 **AlizDevelop/AlizDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
