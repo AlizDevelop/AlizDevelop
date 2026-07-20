@@ -26,8 +26,8 @@ Aliz = developer()
 <h2 align="center"> Contact Me </h2>
 
 <p align="center">
-  <a href="https://instagram.com/aliz.developer/">
-    <img src="https://img.shields.io/badge/Instagram-@aliz.developer?style=flat&logo=instagram" />
+  <a href="https://alizdevelop.github.io/AlirezaMiry.github.io/">
+    <img src="https://img.shields.io/badge/Website-AlirezaMiry.github.io-blue?style=flat&logo=google-chrome" />
   </a>
   <a href="https://telegram.org/itsrzali/">
     <img src="https://img.shields.io/badge/Telegram-@itsrzali-blue?style=flat&logo=telegram" />
